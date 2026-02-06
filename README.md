@@ -177,4 +177,4 @@ EconVerse/
 
 ---
 
-*Built with ❤️ and Systems Engineering by [Aryan Kapoor]*
+*Built with ❤️ and Systems Engineering by Aryan Kapoor*
