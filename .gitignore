@@ -1,0 +1,25 @@
+# Python Virtual Environment (DO NOT COMMIT THIS)
+.venv/
+venv/
+ENV/
+
+# Python compiled files
+*.py[cod]
+__pycache__/
+*.so
+.Python
+
+# AWS CDK Build Artifacts (Generated automatically)
+cdk.out/
+.cdk.staging/
+
+# IDE Settings (Optional but recommended)
+.vscode/
+.idea/
+
+# OS Generated files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
